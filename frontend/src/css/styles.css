@@ -1,0 +1,26 @@
+.row{
+  margin: 1%;
+  width: 100%;
+}
+
+.btn{
+  margin: 1%;
+}
+
+.form-filter{
+  margin-bottom: 1%;
+  padding: 15px !important;
+}
+
+.file-div {
+  position: relative;
+  overflow: hidden;
+}
+
+.file-input {
+  position: absolute;
+  font-size: 50px;
+  opacity: 0;
+  right: 0;
+  top: 0;
+}
